@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [tanem/tweening-counter](http://github.com/tanem/tweening-counter). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/tanem-tweening-counter`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # tweening-counter
 
 A counter that uses a timing function to move towards it's destination.

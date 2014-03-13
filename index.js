@@ -1,11 +1,11 @@
 'use strict';
 
-var raf = require('raf');
-var Tween = require('tween');
-var bind = require('bind');
-var isfunction = require('isfunction');
+var raf = require('component-raf');
+var Tween = require('component-tween');
+var bind = require('component-bind');
+var isfunction = require('techjacker-isfunction');
 var template = require('./template.html');
-var domify = require('domify');
+var domify = require('component-domify');
 
 /**
  * Expose `TweeningCounter`.
